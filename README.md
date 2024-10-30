@@ -44,7 +44,7 @@
 ![image](https://github.com/user-attachments/assets/da20dc8f-c9c4-4bd1-88b3-1530145aa3e7)
 
   
-<h6>However,even though user <i><a href='https://github.com/jsoref?tab=overview&from=2024-10-01&to=2024-10-31'>jsoref</a></i> contributed a lot more, his contributions weren't as much significant to other people which he himself admits in his profile. This user is working on a project called spelling checker (a github action). Therefore, we can deduce that there is no particular relationship between no. of repos or contribution to them and no. of followers in github. </h6>
+<h6>However,even though user <i><a href='https://github.com/jsoref?tab=overview&from=2024-10-01&to=2024-10-31'>jsoref</a></i> contributed a lot more(graph above), his contributions weren't as much significant to other people which he himself admits in his profile. This user is working on a project called spelling checker (a github action). Therefore, we can deduce that there is no particular relationship between no. of repos or contribution to them and no. of followers in github. </h6>
 
 <h6>There are other facts that can be considered here for e.g. the no. of people each of these users are following and when have they created their accounts and such.</h6>
 
