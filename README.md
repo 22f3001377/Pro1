@@ -10,7 +10,10 @@
 `repositories.csv`: Lists the public repositories of the users, detailing their activity and contributions.
 
 # How I scraped the data:
+Below are the links of the python code used to scrape the data:
 
+- <a href='https://github.com/22f3001377/Pro1/blob/main/users_csv_scrape.py'>user_csv_scrape.py</a>
+- <a href='https://github.com/22f3001377/Pro1/blob/main/repo_csv_scrape.py'>repo_csv_scrape.py</a>
 
 ## How to Use This Data
 
