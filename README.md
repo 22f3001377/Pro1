@@ -57,4 +57,4 @@
 
 ## How to Use This Data
 
-This dataset can serve multiple purposes, such as identifying potential collaborators for software projects or understanding the trends in technology use among developers in Toronto. Users can leverage this information to network, share insights, and discover innovative projects.
+<h6>This dataset can serve multiple purposes, such as identifying potential collaborators for software projects or understanding the trends in technology use among developers in Toronto. Users can leverage this information to network, share insights, and discover innovative projects.</h6>
