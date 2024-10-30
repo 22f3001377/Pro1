@@ -26,7 +26,7 @@ def get_repositories(username):
                 'language': repo.get('language', ''),
                 'has_projects': repo.get('has_projects', False),
                 'has_wiki': repo.get('has_wiki', False),
-                'license_name': repo['license']['name'] if repo.get('license') else ''   Updated line
+                'license_name': repo['license']['name'] if repo.get('license') else ''  
             })
         
         page += 1
@@ -36,12 +36,12 @@ def get_repositories(username):
     return repositories[:500]
 
 def main():
-     Read users from users.csv
+
     users = []
     with open('users.csv', mode='r', encoding='utf-8') as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
-            users.append(row['login'])   Collect GitHub usernames
+            users.append(row['login'])   
     with open('repositories.csv', mode='w', newline='', encoding='utf-8') as csv_file:
         fieldnames = [
             'login', 'full_name', 'created_at', 'stargazers_count', 
